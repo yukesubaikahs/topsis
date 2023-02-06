@@ -1,0 +1,13 @@
+Administrator:
+
+username = admin
+
+password = admin123
+
+
+
+Kepala Sekolah:
+
+username = user
+
+password = user
